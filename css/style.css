@@ -252,7 +252,7 @@ header.sticky {
 	height: 240px;
 }
 .port img {
-	height: 70vh;
+	height: 50vh;
 	width: 100%;
 	border-radius: 0.5rem;
 	margin-bottom: 1.5rem;
@@ -512,4 +512,5 @@ form textarea:focus {
 	.port{
 		margin-bottom: 20px;
 	}
+
 }
